@@ -1,10 +1,10 @@
-# 🌿 Nuvio — Comercio local sin inventario
+#  Nuvio — Comercio local sin inventario
 
 **Nuvio** es una plataforma de comercio electrónico donde se venden productos de pequeños fabricantes y artesanos españoles, sin necesidad de stock propio. El sistema automatiza pedidos y conecta clientes con productores locales, actuando como un intermediario digital (*broker*) que gestiona la venta, la comunicación y la logística.
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Frontend:** React (Vite)
 - **Backend:** Firebase (Auth, Firestore, Functions)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Estructura del proyecto
+## Estructura del proyecto
 
 ### Sitio público
 - `/` → Página de inicio (introducción + destacados)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔁 Flujo de pedido
+## 
 
 1. Cliente elige un producto y lo compra.
 2. El pedido se guarda en Firestore.
@@ -41,15 +41,15 @@
 
 ---
 
-## 📌 Objetivos del MVP
+## 
 
 - Funcionalidad completa de tienda y pedidos sin necesidad de login para el cliente.
 - Panel de control para gestión básica de productos y pedidos.
-- Flujo de comunicación entre cliente ↔️ admin ↔️ proveedor.
+- Flujo de comunicación entre cliente ↔ admin ↔ proveedor.
 
 ---
 
-## 🧪 En desarrollo
+## 
 
 - Notificaciones automáticas por correo/WhatsApp
 - Integración de pagos (Stripe, MercadoPago)
@@ -58,8 +58,8 @@
 
 ---
 
-## 🧑‍💻 Autor
+## 
 
-Desarrollado por [Tu nombre aquí] con el apoyo técnico de ChatGPT (OpenAI).
+Desarrollado por Guillermo Longueira
 
 ---
