@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-nuvio-bg { background-color: #F4EDE4; }
+  .bg-nuvio-primary { background-color: #7B4E3A; }
+  .bg-nuvio-hover { background-color: #5E3A2B; }
+  .bg-nuvio-card { background-color: #DCC3A1; }
+  .bg-nuvio-light { background-color: #FAF8F4; }
+
+  .text-nuvio-text { color: #2D1E12; }
+  .text-nuvio-primary { color: #7B4E3A; }
+}
