@@ -9,6 +9,7 @@ export interface GlassButtonProps {
     size?: 'sm' | 'md' | 'lg'
     iconLeft?: ReactNode
     iconRight?: ReactNode
+    variant:string
   }
 
   export interface IconButtonProps {
